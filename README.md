@@ -3,4 +3,4 @@
 
 使用言語
 * preprocess_knocks_python.ipynb:Python
-* preprocess_knocks_sql.ipynb:Postgre:SQL版
+* preprocess_knocks_sql.ipynb:PostgreSQL
